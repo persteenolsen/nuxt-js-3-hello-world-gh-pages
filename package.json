@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-js-3-hello-world-gh-pages",
+  "private": true,
+  "scripts": {
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "start": "nuxi preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+  }
+}
