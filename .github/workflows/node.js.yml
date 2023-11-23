@@ -22,7 +22,7 @@ jobs:
       - name: Installing my packages
         run: npm ci
 
-      - name: Build my App
+      - name: Build / Generate my App
         run: npm run generate && touch ./.output/.nojekyll
 
       - name: Deploy 🚀
