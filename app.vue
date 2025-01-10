@@ -9,7 +9,7 @@ const version = 2 + 1
    
  <div class="hellobody">
 
-  Last updated: 03-12-2024<br /><br />
+  Last updated: 10-01-2025<br /><br />
 
    Make sure to take a look at the Readme file before installing :-)
     

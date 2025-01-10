@@ -1,6 +1,6 @@
 ## Deploying Nuxt 3 to GitHub Pages using GitHub Actions
 
-Last updated: 03-12-2024
+Last updated: 10-01-2025
 
 Node Version: 18.19.1
 
